@@ -1,1 +1,2 @@
-
+Zombies: Zombies are first enemy encountered in the game, meaning its atk, spd, and def are very low. The zombie has 2 atk, 3 def, and 1 spd. Its not very strong, but it has a chance to INFECT, which poisons the player, doing 1 dmg per turn.
+Orcs: Orcs are a bit stronger than zombies, but still really slow. Orcs have 4 atk, 5 def, and 2 spd. Orcs dont have any special abilities, but they can defeat the player immideatley if the player doesnt get a chance to level up or buy armor from a shop before encountering an Orc.
