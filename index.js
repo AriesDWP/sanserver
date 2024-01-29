@@ -4,7 +4,7 @@ var x=0;
 
 app.get('/goodbye', function(req, res){
     x++;
-    res.send(x);
+    res.send("This route has been hit " + x + " times.")
  });
 
 app.get('/', function(req, res){
